@@ -154,4 +154,4 @@ class Adb {
     
     return output.trim();
   }
-
+}
